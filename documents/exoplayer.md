@@ -1,10 +1,10 @@
-# WebStream CENC-Player SDK <br /> ExoPlayer Guide
+# XXXXStream XXXX-Player SDK <br /> ExoPlayer Guide
 
 この文書は以下の情報を示す事を主たる目的として作成されました。
 
 - ExoPlayer の概要
 - ExoPlayer ウェブサイトの各種情報の案内
-- WebStream ライセンスサービスの利用
+- XXXXStream ライセンスサービスの利用
 
 
 ## ExoPlayer Home
@@ -71,7 +71,7 @@ ExoPlayer/RELEASENOTES.md at release-v2 · google/ExoPlayer
 https://github.com/google/ExoPlayer/blob/release-v2/RELEASENOTES.md#r200
 > **r2.0.0**
 
-WebStream CENC-Player SDK では **ExoPlayer 2.x** を対象とした DRM 利用をご案内します。
+XXXXStream XXXX-Player SDK では **ExoPlayer 2.x** を対象とした DRM 利用をご案内します。
 
 
 # DIGITAL RIGHTS MANAGEMENT
@@ -84,22 +84,22 @@ https://google.github.io/ExoPlayer/guide.html#digital-rights-management
 > **Digital Rights Management**
 
 
-## Using WebStream License Service
+## Using XXXXStream License Service
 
-WebStream ライセンスサービスを利用する場合も、
+XXXXStream ライセンスサービスを利用する場合も、
 上記の開発ガイドに記載されている汎用的な DRM 処理で対応可能です。
 DRM の種類（Widevine または PlayReady）とライセンス発行 URL 、
 およびカスタムデータ（必要な場合のみ）をパラメーターとして提供するだけで
-WebStream ライセンスサービスに対応できます。
+XXXXStream ライセンスサービスに対応できます。
 
-WebStream ライセンスサービスの利用例は
+XXXXStream ライセンスサービスの利用例は
 [Samples Guide](../samples/README.md)
 をご確認ください。
 
 
 # ABOUT THIS MANUAL
 
-この文書は WebStream CENC-Player SDK の一部です。  
+この文書は XXXXStream XXXX-Player SDK の一部です。  
 SDK の概要については
 [Introduction and Resources Guide](README.md)
 をご確認ください。
@@ -107,7 +107,7 @@ SDK の概要については
 |||
 |---:|:---|
 | Platform | Android |
-| Author | WebStream Corporation |
+| Author | XXXXStream Corporation |
 ||
 
 

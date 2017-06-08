@@ -57,7 +57,7 @@ https://google.github.io/ExoPlayer/demo-application.html
 
 # ABOUT THIS MANUAL
 
-この文書は WebStream CENC-Player SDK の一部です。  
+この文書は XXXXStream XXXX-Player SDK の一部です。  
 SDK の概要については
 [Introduction and Resources Guide](../documents/README.md)
 をご確認ください。
@@ -65,7 +65,7 @@ SDK の概要については
 |||
 |---:|:---|
 | Platform | Android |
-| Author | WebStream Corporation |
+| Author | XXXXStream Corporation |
 |||
 
 

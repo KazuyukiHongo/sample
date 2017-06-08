@@ -1,17 +1,17 @@
-# WebStream CENC-Player SDK <br /> Introduction and Resources Guide
+# XXXStream XXXX-Player SDK <br /> Introduction and Resources Guide
 
 この文書は以下の情報を示す事を主たる目的として作成されました。
 
-- WebStream CENC-Player SDK の概要
+- XXXStream XXXX-Player SDK の概要
 - SDK に含まれる各リソースの概要
 
 
 ## Introduction
 
-Android プラットフォーム用の WebStream CENC-Player SDK は、
+Android プラットフォーム用の XXXStream XXXX-Player SDK は、
 ExoPlayer*1 を基盤としたメディアプレーヤーの開発支援キットです。
 この SDK を利用すると、
-WebStream が提供する DRM ライセンスサービス（Widevine または PlayReady）に対応したメディアプレーヤーを、
+XXXStream が提供する DRM ライセンスサービス（Widevine または PlayReady）に対応したメディアプレーヤーを、
 お客様のアプリケーションに容易に組み込み可能になります。
 
 *1: ExoPlayer についてはこちらをご確認ください。  
@@ -20,12 +20,12 @@ https://google.github.io/ExoPlayer/
 
 ## Resources
 
-Android プラットフォーム用の WebStream CENC-Player SDK には次のリソースが含まれます。
+Android プラットフォーム用の XXXStream XXXX-Player SDK には次のリソースが含まれます。
 
 - [ExoPlayer Guide](exoplayer.md)  
     - ExoPlayer の概要
     - ExoPlayer ウェブサイトの各種情報の案内
-    - WebStream ライセンスサービスの利用
+    - XXXStream ライセンスサービスの利用
 - [Intent Parameters Guide](demoIntent.md)  
     - ExoPlayer デモアプリの PlayerActivity 起動 Intent 解説
 - [Samples Guide](../samples/README.md)  
@@ -37,7 +37,7 @@ Android プラットフォーム用の WebStream CENC-Player SDK には次のリ
 |||
 |---:|:---|
 | Platform | Android |
-| Author | WebStream Corporation |
+| Author | XXXStream Corporation |
 ||
 
 
@@ -51,13 +51,13 @@ Android プラットフォーム用の WebStream CENC-Player SDK には次のリ
 ||
 
 
-## WebStream CONTACTS
+## XXXStream CONTACTS
 
 お問い合わせ先をご案内します。
 
 - 技術サポート
-    - wsdrm-support@webstream.ne.jp
-- 株式会社ウェブストリーム
-    - https://www.webstream.co.jp/
-    - Tel: 03-5405-2003
+    - wsdrm-support@XXXStream.ne.jp
+- 株式会社XXXXX
+    - https://www.XXXStream.co.jp/
+    - Tel: 
 
