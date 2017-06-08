@@ -1,4 +1,4 @@
-# WebStream CENC-Player SDK
+# XXXStream XXXX-Player SDK
 
 ## Links
 
